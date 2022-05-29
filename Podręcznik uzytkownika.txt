@@ -1,0 +1,13 @@
+Sposoby uruchomiania oraz kończenia pracy z programu
+-Aby uruchomić program, nalezy kozystająć z prawego przycisku myszy, dwa razy nacisnąć na ikonę programu "Fitness Club"
+-Aby zakończyć pracę programu, nalezy nacisnąć przycisk "X" znajdujący się w prawym rogu ekranu.
+Jak nalezy korzystać z programu?
+-W pierwszej kolejności po uruchomieniu, nalezy wypełnić pola, znajdujące się po lewej stronie ekranu, naszymy danymi, a następnie kliknąć przycisk zatwierdź.
+-Następnie zaakceptować warunki umowy oraz regulamin, zaznaczając małe kwadratowe pola, znajdujące się pod przyciskiem "Zatwierdź dane"
+-Naszym kolenym krokiem jest Wybranie pakietu z pośród listy, znajdującej się po prawej stronie. Mozna przewijąć liste przyciskiem środkowym przyciskiem na myszy.
+-Jako przedostatni element instrucji klikamy przycisk zapisz, znajduący się pod listą pakietów.
+-Teraz musimy tylko pobrać kod klienta poprzez kliknięcie przycisku "Pobierz kod klienta" znajdujący się na dole ekranu, na środku. Wyświetli się on w prawym dolnym rogu.
+Ewentualne problemy
+-Jeśli wyskoczy błąd proszę skontaktować się z działem pomocy
+Dział pomocy
+-Aby skontakwoć się z działem pomocy nalezy kliknąć na przycisk "Pomoc", znajdującym się w lewym dolnym rogu. Następnie zostaniemy przeniesieni na stronę pomocy w domyślnej przeglądarce.
