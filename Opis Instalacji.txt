@@ -1,0 +1,6 @@
+Jak zainstalować program?
+-Po pobraniu programu "fitnessclub.exe", nalezy go uruchomić klikając prawym przyciskiem myszy 2 razy na ikonę programu.
+-Następnie nalezy podązać instrukcjami wyświetlającymi się na ekranie. 
+-Na końcu nasz program powinien pojawić się na naszym pulpicie, jezeli tak się nie stało, nalezy wyszukać program w wyszukiwarce po nazwie: "Fitness Club"
+
+Dziękujemy za skozystanie z naszego programu.
