@@ -1,0 +1,5 @@
+Ta część dokumentacji opisuje przeznaczenie i główne funkcje systemu.
+
+Jakie zadanie ma pełnić program?
+-W prosty sposób umożliwia nam dostęp do wszystkich pakietów klubu fitness
+-Za pomocą paru klinknięc mozemy się zarejestrować i wyrobić "kartę" klubu
